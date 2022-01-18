@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Springboot-Xinguan/goods.iml" filepath="$PROJECT_DIR$/Springboot-Xinguan/goods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/xinguan.iml" filepath="$PROJECT_DIR$/.idea/xinguan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Springboot-Xinguan/xinguan-business/xinguan-business.iml" filepath="$PROJECT_DIR$/Springboot-Xinguan/xinguan-business/xinguan-business.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Springboot-Xinguan/xinguan-common/xinguan-common.iml" filepath="$PROJECT_DIR$/Springboot-Xinguan/xinguan-common/xinguan-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Springboot-Xinguan/xinguan-generator/xinguan-generator.iml" filepath="$PROJECT_DIR$/Springboot-Xinguan/xinguan-generator/xinguan-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Springboot-Xinguan/xinguan-system/xinguan-system.iml" filepath="$PROJECT_DIR$/Springboot-Xinguan/xinguan-system/xinguan-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Springboot-Xinguan/xinguan-web/xinguan-web.iml" filepath="$PROJECT_DIR$/Springboot-Xinguan/xinguan-web/xinguan-web.iml" />
+    </modules>
+  </component>
+</project>
